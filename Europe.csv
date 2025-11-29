@@ -1,0 +1,101 @@
+Rank,Company,Industry,Revenue(US$ billions),Headquarters
+1,Volkswagen,Automotive,348.408,Germany
+2,Shell,Oil and gas,323.183,United Kingdom
+3,TotalEnergies,Oil and gas,218.945,France
+4,Glencore,Conglomerate,217.829,Switzerland
+5,BP,Oil and gas,213.032,United Kingdom
+6,Stellantis,Automotive,204.908,Netherlands
+7,BMW,Automotive,168.902,Germany
+8,Mercedes-Benz Group,Automotive,165.637,Germany
+9,Électricité de France,Electric utility,151.040,France
+10,Banco Santander,Financial services,137.244,Spain
+11,BNP Paribas,Financial services,136.076,France
+12,HSBC,Financial services,134.901,United Kingdom
+13,Deutsche Telekom,Telecommunications,121.046,Germany
+14,Uniper,Electric utility,116.662,Germany
+15,Allianz,Financial services,113.517,Germany
+16,Rosneft,Oil and gas,107.543,Russia
+17,Equinor,Oil and gas,107.174,Norway
+18,Nestlé,Consumer goods,103.505,Switzerland
+19,Enel,Electric utility,103.311,Italy
+20,Eni,Oil and gas,102.501,Italy
+21,E.ON,Electric utility,101.280,Germany
+22,Gazprom,Oil and gas,100.252,Russia
+23,SocGen,Financial services,99.163,France
+24,Bosch,Conglomerate,90.020,Germany
+25,Ahold Delhaize,Retail,95.834,Netherlands
+26,Crédit Agricole,Financial services,93.358,France
+27,Dior,Luxury goods,93.136,France
+28,Carrefour,Retail,90.062,France
+29,Rewe Group,Retail,90.794,Germany
+30,Axa,Insurance,90.405,France
+31,Engie,Electric utility,89.257,France
+32,Orlen,Oil and gas,88.717,Poland
+33,DHL,Courier,86.385,Germany
+34,Tesco,Retail,86.231,United Kingdom
+35,Siemens,Conglomerate,82.931,Germany
+36,Vinci,Construction,75.750,France
+37,Lukoil,Oil and gas,75.012,Russia
+38,BASF,Chemicals,74.487,Germany
+39,Groupe BPCE,Financial services,73.774,France
+40,UBS Group,Financial services,71.245,Switzerland
+41,Airbus,Aeronautics and defence,70.751,Netherlands
+42,ArcelorMittal,Steel,68.275,Luxembourg
+43,Koç Holding,Conglomerate,67.482,Turkey
+44,Roche,Pharmaceuticals,67.269,Switzerland
+45,BBVA,Financial services,66.978,Spain
+46,Lloyds Banking Group,Financial services,66.697,United Kingdom
+47,Deutsche Bank,Financial services,65.978,Germany
+48,Accenture,Consulting,64.896,Ireland
+49,Unilever,Consumer goods,64.435,United Kingdom
+50,Barclays,Financial services,63.800,United Kingdom
+51,Munich Re,Financial services,63.353,Germany
+52,Sberbank,Financial services,63.329,Russia
+53,Zurich Insurance Group,Financial services,60.645,Switzerland
+54,Bouygues,Conglomerate,60.599,France
+55,Daimler Truck,Automotive,60.420,Germany
+56,ING,Financial services,60.401,Netherlands
+57,AB InBev,Beverages,59.380,Belgium
+58,Assicurazioni Generali,Financial services,57.022,Italy
+59,Repsol,Energy production,56.980,Spain
+60,Renault,Automotive,56.621,France
+61,Edeka,Retail,54.454,Germany
+62,Novartis,Pharmaceuticals,54.088,Switzerland
+63,Rio Tinto,Mining,54.041,United Kingdom
+64,Iberdrola,Electric utility,53.334,Spain
+65,Deutsche Bahn,Transport,53.197,Germany
+66,Volvo,Heavy equipment,52.101,Sweden
+67,Intesa Sanpaolo,Financial services,52.004,Italy
+68,Saint-Gobain,Building materials,51.830,France
+69,Bayer,Pharmaceuticals,51.498,Germany
+70,Maersk,Conglomerate,51.065,Denmark
+71,Phoenix Pharmahandel,Pharmaceuticals,50.934,Germany
+72,Louis Dreyfus Company,Agricultural Commodities,50.624,France
+73,ZF Friedrichshafen,Auto and truck parts,50.406,Germany
+74,Sanofi,Pharmaceuticals,50.208,France
+75,Swiss Re,Financial services,49.800,Switzerland
+76,Chubb,Insurance,49.735,Switzerland
+77,Veolia,Environmental services,49.027,France
+78,Vodafone,Telecommunications,48.871,United Kingdom
+79,Landesbank Baden-Württemberg,Financial services,48.566,Germany
+80,Exor,Investment,48.368,Netherlands
+81,Unédic,Financial services,48.128,France
+82,UniCredit,Financial services,48.044,Italy
+83,EnBW,Telecommunications,48.032,Germany
+84,Orange S.A.,Financial services,47.698,France
+85,INGKA Holding,Auto and truck parts,46.938,Netherlands
+86,Talanx,Financial services,46.155,Germany
+87,AstraZeneca,Pharmaceuticals,45.811,United Kingdom
+88,Crédit Agricole,Financial services,45.489,France
+89,SNCF,Transport,45.145,France
+90,Continental,Auto and truck parts,44.778,Germany
+91,L'Oréal,Cosmetics,44.520,France
+92,Telefónica,Telecommunications,43.947,Spain
+93,OMV,Oil and gas,42.661,Austria
+94,LyondellBasell,Chemicals,41.107,Netherlands
+95,Sainsbury's,Retail,41.108,United Kingdom
+96,Lufthansa,Transportation,40.455,Germany
+97,ThyssenKrupp,Conglomerate,40.027,Germany
+98,Inditex,Retail,35.799,Spain
+99,Schneider Electric,Electrical equipment,38.812,France
+100,ACS Group,Engineering,38.634,Spain
