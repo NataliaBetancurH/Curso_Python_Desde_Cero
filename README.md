@@ -87,7 +87,7 @@ Opción 1: Google Colab (Recomendado)
 
 Opción 2: Jupyter Notebook Local
 
-# Clonar el repositorio
+Clonar el repositorio
 git clone https://github.com/NataliaBetancurH/Curso_Python_Desde_Cero.git
 
 
