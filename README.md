@@ -63,7 +63,7 @@ Módulo 5: Pandas para Análisis de Datos
 * Manejo de valores faltantes
 
 **Estructura del Repositorio**
-
+```
 Curso_Python_Desde_Cero/
 │
 ├── Módulo_1_Introducción_a_Python.ipynb
@@ -73,7 +73,7 @@ Curso_Python_Desde_Cero/
 ├── Módulo_5_Pandas_para_Análisis_de_Datos.ipynb
 ├── BBDD_CURSO_PYTHON.xlsx
 └── README.md
-
+```
 
 **Cómo Empezar**
 
