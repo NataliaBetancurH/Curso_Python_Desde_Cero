@@ -11,56 +11,56 @@ Este repositorio contiene material educativo completo para aprender Python desde
 
 Módulo 1: Introducción a Python
 
-✅ Instalación y uso de Google Colab
-✅ Variables y tipos de datos (int, float, str, bool)
-✅ Operadores aritméticos y relacionales
-✅ Entrada y salida de datos
-✅ Módulo Math
-✅ Operaciones con cadenas de texto
-✅ Estructuras de control: if, else, elif
+* Instalación y uso de Google Colab
+* Variables y tipos de datos (int, float, str, bool)
+* Operadores aritméticos y relacionales
+* Entrada y salida de datos
+* Módulo Math
+* Operaciones con cadenas de texto
+* Estructuras de control: if, else, elif
 
 Módulo 2: Estructuras de Datos
 
-✅ Listas: creación, métodos y operaciones
-✅ Tuplas: características e inmutabilidad
-✅ Diccionarios: pares clave-valor
-✅ Conjuntos (Sets): operaciones matemáticas
-✅ Bucles: for y while
-✅ Control de bucles: break y continue
-✅ Comprensiones de listas
+* Listas: creación, métodos y operaciones
+* Tuplas: características e inmutabilidad
+* Diccionarios: pares clave-valor
+* Conjuntos (Sets): operaciones matemáticas
+* Bucles: for y while
+* Control de bucles: break y continue
+* Comprensiones de listas
 
 Módulo 3: Funciones y Programación Modular
 
-✅ Definición de funciones
-✅ Parámetros y argumentos (posicionales, keyword, *args, **kwargs)
-✅ Valores por defecto
-✅ Funciones anónimas (lambda)
-✅ Funciones con map() y filter()
-✅ Módulos y paquetes en Python
-✅ Crear e importar módulos personalizados
+* Definición de funciones
+* Parámetros y argumentos (posicionales, keyword, *args, **kwargs)
+* Valores por defecto
+* Funciones anónimas (lambda)
+* Funciones con map() y filter()
+* Módulos y paquetes en Python
+* Crear e importar módulos personalizados
 
 Módulo 4: NumPy para Operaciones Numéricas
 
-✅ Introducción a NumPy
-✅ Arrays y matrices
-✅ Operaciones matemáticas con arrays
-✅ Producto de matrices
-✅ Indexación y slicing
-✅ Generación de datos aleatorios
-✅ Funciones estadísticas (sum, mean, std, max, min)
-✅ Agregaciones por eje (axis=0, axis=1)
+* Introducción a NumPy
+* Arrays y matrices
+* Operaciones matemáticas con arrays
+* Producto de matrices
+* Indexación y slicing
+* Generación de datos aleatorios
+* Funciones estadísticas (sum, mean, std, max, min)
+* Agregaciones por eje (axis=0, axis=1)
 
 Módulo 5: Pandas para Análisis de Datos
 
-✅ Introducción a Pandas
-✅ Series y DataFrames
-✅ Cargar datos desde Excel/CSV
-✅ Exploración de datos (head, info, describe)
-✅ Selección e indexación (loc, iloc)
-✅ Filtrado de datos
-✅ Operaciones con DataFrames
-✅ Agrupación y agregación (groupby)
-✅ Manejo de valores faltantes
+* Introducción a Pandas
+* Series y DataFrames
+* Cargar datos desde Excel/CSV
+* Exploración de datos (head, info, describe)
+* Selección e indexación (loc, iloc)
+* Filtrado de datos
+* Operaciones con DataFrames
+* Agrupación y agregación (groupby)
+* Manejo de valores faltantes
 
 **Estructura del Repositorio**
 
@@ -118,12 +118,12 @@ Cada módulo sigue esta estructura:
 **Objetivos de Aprendizaje**
 Al finalizar este curso, serás capaz de:
 
-✅ Comprender los fundamentos de Python
-✅ Trabajar con estructuras de datos complejas
-✅ Crear funciones y módulos reutilizables
-✅ Realizar operaciones numéricas con NumPy
-✅ Analizar y manipular datos con Pandas
-✅ Limpiar y preparar datos para análisis
+* Comprender los fundamentos de PythoN
+* Trabajar con estructuras de datos complejas
+* Crear funciones y módulos reutilizables
+* Realizar operaciones numéricas con NumPy
+* Analizar y manipular datos con Pandas
+* Limpiar y preparar datos para análisis
 
 **Sobre la Autora** 
 Natalia Betancur Herrera
