@@ -1,4 +1,5 @@
-Descripción
+**Descripción**
+
 Este repositorio contiene material educativo completo para aprender Python desde cero. El curso está estructurado en módulos progresivos, cada uno con explicaciones claras, ejemplos prácticos y ejercicios.
 
 **¿Para quién es este curso?**
